@@ -1,0 +1,37 @@
+<RCC>
+  <qresource>
+    <file>icon/icon.ico</file>
+    <file>icon/cil-check-alt.png</file>
+    <file>icon/058-error.png</file>
+    <file>icon/059-success.png</file>
+    <file>icon/cil-window-maximize.png</file>
+    <file>icon/cil-window-minimize.png</file>
+    <file>icon/cil-x.png</file>
+    <file>icon/minus.png</file>
+    <file>icon/plus.png</file>
+    <file>icon/avatar.png</file>
+    <file>icon/doctor.png</file>
+    <file>icon/doctor-1.png</file>
+    <file>icon/doctor-2.png</file>
+    <file>icon/doctor-3.png</file>
+    <file>icon/medical-assistance.png</file>
+    <file>icon/medical-assistance-1.png</file>
+    <file>icon/medical-assistance-2.png</file>
+    <file>icon/medical-assistance-3.png</file>
+    <file>icon/medical-assistance-4.png</file>
+    <file>icon/militar.png</file>
+    <file>icon/militar-1.png</file>
+    <file>icon/nurse.png</file>
+    <file>icon/nurse-1.png</file>
+    <file>icon/nurse-2.png</file>
+    <file>icon/scientist.png</file>
+    <file>icon/student.png</file>
+    <file>icon/student-1.png</file>
+    <file>icon/surgeon.png</file>
+    <file>icon/surgeon-1.png</file>
+    <file>icon/teacher.png</file>
+    <file>icon/teacher-1.png</file>
+    <file>icon/teacher-2.png</file>
+    <file>icon/teacher-3.png</file>
+  </qresource>
+</RCC>
